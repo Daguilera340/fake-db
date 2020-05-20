@@ -1,0 +1,6 @@
+{
+"cards":[
+  {"variant": "gold", "status": "active", "number": "4000001234567899", "holder": "Pedro First Test", "expiration": "07/23"},
+  {"variant": "credit", "status": "blocked", "number": "0000000000002222", "holder": "Pedro First Test", "expiration": "07/23"},
+  {"variant": "debit", "status": "off", "number": "0000000000003333", "holder": "Pedro First Test", "expiration": "07/23"}
+]}
